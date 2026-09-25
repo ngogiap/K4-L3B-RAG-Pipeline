@@ -2,14 +2,14 @@
 
 **Source:** https://www.baobacgiang.vn/bg/dulichbg/diem-den/403571/khu-du-lich-sinh-thai-suoi-mo-diem-den-hap-dan-cua-du-khach.html
 
-**Crawled:** 2026-09-25T03:41:21.420308+00:00
+**Crawled:** 2026-09-25T03:52:52.533116+00:00
 
 ---
 
 **Thứ sáu** , 25/09/2026
 [ENGLISH](https://en.baobacninhtv.vn) | [中文](https://cn.baobacninhtv.vn) | [BACNINHTV](https://bacninhtv.vn/)
 [ Cơ quan của Đảng bộ Đảng Cộng sản Việt Nam thành phố Bắc Ninh  Tiếng nói của Đảng bộ, chính quyền và Nhân dân thành phố Bắc Ninh  ](javascript:;)
-![](/images/weathers/01d@2x.png) **Bắc Ninh** 29 °C / 25 - 32 °C
+![](/images/weathers/01d@2x.png) **Bắc Ninh** 30 °C / 25 - 32 °C
 **Hotline:** +84.889.859.666 
 [ Zalo ](https://zalo.me/1854346501056539476) [](https://www.facebook.com/baobacninhtv) [](https://twitter.com/intent/tweet?url=http://baobacninhtv.vn/) [](javascript:;) [](javascript:;)
 [ENGLISH](https://en.baobacninhtv.vn) | [中文](https://cn.baobacninhtv.vn) | [BACNINHTV](https://bacninhtv.vn/)

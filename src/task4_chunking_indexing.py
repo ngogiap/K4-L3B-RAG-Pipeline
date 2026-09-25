@@ -67,7 +67,28 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
             vectors.extend(item.embedding for item in response.data)
         return vectors
 
+    if provider == "gemini":
+        api_key = os.getenv("GEMINI_API_KEY", "").strip()
+        if not api_key:
+            raise ValueError("GEMINI_API_KEY is not set.")
+        from google import genai
+
+        client = genai.Client(api_key=api_key)
+        emb_model = model_name if model_name and "bge" not in model_name else "text-embedding-004"
+        vectors = []
+        batch_size = 32
+        for start in range(0, len(texts), batch_size):
+            batch = texts[start : start + batch_size]
+            res = client.models.embed_content(
+                model=emb_model,
+                contents=batch,
+            )
+            for emb in res.embeddings:
+                vectors.append(emb.values)
+        return vectors
+
     raise ValueError(f"Unsupported EMBEDDING_PROVIDER={provider!r}")
+
 
 
 def get_collection():

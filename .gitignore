@@ -57,3 +57,5 @@ chroma_db/
 # OS
 .DS_Store
 Thumbs.db
+
+test_tasks_8_9_10.py

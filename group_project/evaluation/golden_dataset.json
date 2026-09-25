@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Luật Du lịch năm 2017 quy định phạm vi điều chỉnh như thế nào?",
+    "expected_answer": "Điều 1 Luật Du lịch năm 2017 quy định phạm vi điều chỉnh về tài nguyên du lịch, phát triển sản phẩm du lịch và hoạt động du lịch; quyền, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh doanh du lịch; quản lý nhà nước về du lịch và các nội dung khác liên quan đến hoạt động du lịch.",
+    "expected_context": "Điều 1 Luật Du lịch năm 2017 quy định phạm vi điều chỉnh về tài nguyên du lịch, phát triển sản phẩm du lịch và hoạt động du lịch; quyền, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh doanh du lịch; quản lý nhà nước về du lịch và các nội dung khác liên quan đến hoạt động du lịch."
+  },
+  {
+    "question": "Luật Du lịch năm 2017 quy định đối tượng áp dụng gồm những ai?",
+    "expected_answer": "Đối tượng áp dụng gồm cơ quan, tổ chức, cá nhân Việt Nam hoạt động du lịch trên lãnh thổ Việt Nam và ở nước ngoài; tổ chức, cá nhân nước ngoài hoạt động du lịch trên lãnh thổ Việt Nam; cơ quan quản lý nhà nước về du lịch, cơ quan khác, tổ chức, cá nhân, cộng đồng dân cư có hoạt động liên quan đến du lịch.",
+    "expected_context": "Điều 2 Luật Du lịch năm 2017 quy định đối tượng áp dụng gồm: Cơ quan, tổ chức, cá nhân Việt Nam hoạt động du lịch trên lãnh thổ Việt Nam và ở nước ngoài; Tổ chức, cá nhân nước ngoài hoạt động du lịch trên lãnh thổ Việt Nam; Cơ quan quản lý nhà nước về du lịch, cơ quan khác, tổ chức, cá nhân, cộng đồng dân cư có hoạt động liên quan đến du lịch."
+  },
+  {
+    "question": "Du lịch được định nghĩa như thế nào theo Luật Du lịch năm 2017?",
+    "expected_answer": "Du lịch là các hoạt động có liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp với mục đích hợp pháp khác.",
+    "expected_context": "Khoản 1 Điều 3 Luật Du lịch năm 2017 quy định: Du lịch là các hoạt động có liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp với mục đích hợp pháp khác."
+  },
+  {
+    "question": "Khách du lịch là ai theo quy định của Luật Du lịch 2017?",
+    "expected_answer": "Khách du lịch là người đi du lịch hoặc kết hợp đi du lịch, trừ trường hợp đi học, làm việc để nhận thu nhập ở nơi đến.",
+    "expected_context": "Khoản 2 Điều 3 Luật Du lịch năm 2017 quy định khách du lịch là người đi du lịch hoặc kết hợp đi du lịch, trừ trường hợp đi học, làm việc để nhận thu nhập ở nơi đến."
+  },
+  {
+    "question": "Hoạt động du lịch là gì theo Luật Du lịch 2017?",
+    "expected_answer": "Hoạt động du lịch là hoạt động của khách du lịch, tổ chức, cá nhân kinh doanh du lịch và cơ quan, tổ chức, cá nhân, cộng đồng dân cư có liên quan đến du lịch.",
+    "expected_context": "Khoản 3 Điều 3 Luật Du lịch năm 2017 quy định: Hoạt động du lịch là hoạt động của khách du lịch, tổ chức, cá nhân kinh doanh du lịch và cơ quan, tổ chức, cá nhân, cộng đồng dân cư có liên quan đến du lịch."
+  },
+  {
+    "question": "Tài nguyên du lịch là gì và bao gồm những loại nào?",
+    "expected_answer": "Tài nguyên du lịch là cảnh quan thiên nhiên, yếu tố tự nhiên và các giá trị văn hóa làm cơ sở để hình thành sản phẩm du lịch, khu du lịch, điểm du lịch nhằm đáp ứng nhu cầu du lịch. Tài nguyên du lịch bao gồm tài nguyên du lịch tự nhiên và tài nguyên du lịch văn hóa.",
+    "expected_context": "Khoản 4 Điều 3 Luật Du lịch năm 2017 quy định: Tài nguyên du lịch là cảnh quan thiên nhiên, yếu tố tự nhiên và các giá trị văn hóa làm cơ sở để hình thành sản phẩm du lịch, khu du lịch, điểm du lịch nhằm đáp ứng nhu cầu du lịch. Tài nguyên du lịch bao gồm tài nguyên du lịch tự nhiên và tài nguyên du lịch văn hóa."
+  },
+  {
+    "question": "Sản phẩm du lịch được hiểu như thế nào?",
+    "expected_answer": "Sản phẩm du lịch là tập hợp các dịch vụ trên cơ sở khai thác giá trị tài nguyên du lịch để thỏa mãn nhu cầu của khách du lịch.",
+    "expected_context": "Khoản 5 Điều 3 Luật Du lịch năm 2017 quy định: Sản phẩm du lịch là tập hợp các dịch vụ trên cơ sở khai thác giá trị tài nguyên du lịch để thỏa mãn nhu cầu của khách du lịch."
+  },
+  {
+    "question": "Khu du lịch là gì và bao gồm những cấp độ nào?",
+    "expected_answer": "Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu tư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch. Khu du lịch bao gồm khu du lịch cấp tỉnh và khu du lịch quốc gia.",
+    "expected_context": "Khoản 6 Điều 3 Luật Du lịch năm 2017 quy định: Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu tư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch. Khu du lịch bao gồm khu du lịch cấp tỉnh và khu du lịch quốc gia."
+  },
+  {
+    "question": "Điểm du lịch là gì theo quy định của pháp luật du lịch?",
+    "expected_answer": "Điểm du lịch là nơi có tài nguyên du lịch được đầu tư, khai thác phục vụ khách du lịch.",
+    "expected_context": "Khoản 7 Điều 3 Luật Du lịch năm 2017 quy định: Điểm du lịch là nơi có tài nguyên du lịch được đầu tư, khai thác phục vụ khách du lịch."
+  },
+  {
+    "question": "Chương trình du lịch được định nghĩa như thế nào?",
+    "expected_answer": "Chương trình du lịch là văn bản thể hiện lịch trình, dịch vụ và giá bán được định trước cho chuyến đi của khách du lịch từ điểm xuất phát đến điểm kết thúc chuyến đi.",
+    "expected_context": "Khoản 8 Điều 3 Luật Du lịch năm 2017 quy định: Chương trình du lịch là văn bản thể hiện lịch trình, dịch vụ và giá bán được định trước cho chuyến đi của khách du lịch từ điểm xuất phát đến điểm kết thúc chuyến đi."
+  },
+  {
+    "question": "Kinh doanh dịch vụ lữ hành là gì?",
+    "expected_answer": "Kinh doanh dịch vụ lữ hành là việc xây dựng, bán và tổ chức thực hiện một phần hoặc toàn bộ chương trình du lịch cho khách du lịch.",
+    "expected_context": "Khoản 9 Điều 3 Luật Du lịch năm 2017 quy định: Kinh doanh dịch vụ lữ hành là việc xây dựng, bán và tổ chức thực hiện một phần hoặc toàn bộ chương trình du lịch cho khách du lịch."
+  },
+  {
+    "question": "Khách du lịch nội địa là gì?",
+    "expected_answer": "Khách du lịch nội địa là công dân Việt Nam, người nước ngoài cư trú ở Việt Nam đi du lịch trong lãnh thổ Việt Nam.",
+    "expected_context": "Khách du lịch nội địa là công dân Việt Nam, người nước ngoài cư trú ở Việt Nam đi du lịch trong lãnh thổ Việt Nam theo quy định của Luật Du lịch 2017."
+  },
+  {
+    "question": "Khách du lịch quốc tế đến Việt Nam được hiểu như thế nào?",
+    "expected_answer": "Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt Nam định cư ở nước ngoài vào Việt Nam du lịch.",
+    "expected_context": "Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt Nam định cư ở nước ngoài vào Việt Nam du lịch theo quy định của Luật Du lịch 2017."
+  },
+  {
+    "question": "Các hành vi bị nghiêm cấm trong hoạt động du lịch là gì?",
+    "expected_answer": "Các hành vi bị nghiêm cấm gồm: làm phương hại đến chủ quyền, an ninh quốc gia, trật tự an toàn xã hội; phá hoại môi trường, tài nguyên du lịch; phân biệt đối xử với khách du lịch; lừa đảo, ép buộc khách du lịch mua hàng hóa, sử dụng dịch vụ.",
+    "expected_context": "Điều 9 Luật Du lịch năm 2017 quy định các hành vi bị nghiêm cấm trong hoạt động du lịch bao gồm làm phương hại đến chủ quyền quốc gia, phá hoại tài nguyên du lịch, truyền thống văn hóa, phân biệt đối xử và ép buộc khách du lịch."
+  },
+  {
+    "question": "Định hướng phát triển dịch vụ du lịch tỉnh Bắc Giang tập trung vào những lĩnh vực nào?",
+    "expected_answer": "Phương án phát triển dịch vụ tỉnh Bắc Giang định hướng phát triển du lịch văn hóa - tâm linh, du lịch sinh thái - nghỉ dưỡng, du lịch vui chơi giải trí và dịch vụ logistics, thương mại gắn với tiềm năng di tích và cảnh quan của tỉnh.",
+    "expected_context": "Phương án phát triển dịch vụ tỉnh Bắc Giang xác định tập trung phát triển đa dạng các sản phẩm du lịch thế mạnh như du lịch văn hóa, tâm linh, sinh thái, nghỉ dưỡng, thể thao golf và dịch vụ thương mại đồng bộ."
+  }
+]

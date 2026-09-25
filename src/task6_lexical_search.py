@@ -28,23 +28,33 @@ def _load_corpus_from_vectorstore() -> list[dict]:
         from .task4_chunking_indexing import get_collection
 
         response = get_collection().get(include=["documents", "metadatas"])
+        ids = response.get("ids") or []
+        documents = response.get("documents") or []
+        metadatas = response.get("metadatas") or []
+        corpus = []
+        for item_id, content, metadata in zip(ids, documents, metadatas):
+            if item_id and content and metadata:
+                corpus.append(
+                    {
+                        "id": item_id,
+                        "content": content,
+                        "metadata": _normalize_metadata(metadata),
+                    }
+                )
+        if corpus:
+            return corpus
+    except Exception:
+        pass
+
+    # Fallback to chunking standardized markdown docs directly if vectorstore is not ready
+    try:
+        from .task4_chunking_indexing import load_documents, chunk_documents
+
+        docs = load_documents()
+        return chunk_documents(docs)
     except Exception:
         return []
 
-    ids = response.get("ids") or []
-    documents = response.get("documents") or []
-    metadatas = response.get("metadatas") or []
-    corpus = []
-    for item_id, content, metadata in zip(ids, documents, metadatas):
-        if item_id and content and metadata:
-            corpus.append(
-                {
-                    "id": item_id,
-                    "content": content,
-                    "metadata": _normalize_metadata(metadata),
-                }
-            )
-    return corpus
 
 
 def build_bm25_index(corpus: list[dict]):
