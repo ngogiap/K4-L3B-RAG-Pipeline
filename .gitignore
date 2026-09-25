@@ -37,6 +37,7 @@ htmlcov/
 
 # Temp PDF conversion cache
 data/_tmp_pdf/
+data/_crawl4ai/
 
 # Temp / cache
 .pytest_cache/
