@@ -2,14 +2,14 @@
 
 **Source:** https://www.baobacgiang.vn/bg2/luc-ngan/khai-mac-chuong-trinh-du-lich-vai-thieu-luc-ngan-tinh-hoa-trai-cay-viet--postid419650.bbg
 
-**Crawled:** 2026-09-25T03:41:22.970077+00:00
+**Crawled:** 2026-09-25T03:52:56.810012+00:00
 
 ---
 
 **Thứ sáu** , 25/09/2026
 [ENGLISH](https://en.baobacninhtv.vn) | [中文](https://cn.baobacninhtv.vn) | [BACNINHTV](https://bacninhtv.vn/)
 [](javascript:;) [Huyện Lục Ngạn](javascript:;)
-![](/images/weathers/01d@2x.png) **Bắc Ninh** 29 °C / 25 - 32 °C
+![](/images/weathers/01d@2x.png) **Bắc Ninh** 30 °C / 25 - 32 °C
 **Hotline:** +84.889.859.666 
 [ Zalo ](https://zalo.me/1854346501056539476) [](https://www.facebook.com/baobacninhtv) [](https://twitter.com/intent/tweet?url=http://baobacninhtv.vn/) [](javascript:;) [](javascript:;)
 [ENGLISH](https://en.baobacninhtv.vn) | [中文](https://cn.baobacninhtv.vn) | [BACNINHTV](https://bacninhtv.vn/)
